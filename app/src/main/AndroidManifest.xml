@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.car_service">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CAR_SERVICE">
+
+
+
+        <activity
+            android:name=".View_Approved_Bookings"
+            android:exported="true" />
+
+        <activity
+            android:name=".Service_Details_Tab"
+            android:exported="true" />
+
+
+        <activity
+            android:name=".MenuActivity"
+            android:exported="true" />
+
+        <activity
+            android:name=".Description"
+            android:exported="true" />
+
+
+        <activity
+            android:name=".AdminActivities"
+            android:exported="true" />
+        <activity
+            android:name=".add_Services"
+            android:exported="true" />
+    </application>
+
+</manifest>
