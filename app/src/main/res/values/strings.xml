@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">CAR_SERVICE</string>
+
+
+    <!-- Splash Screen Strings-->
+    <string name="splashWelcomeText">WELCOME</string>
+    <string name="copyrightText">copyright©2021</string>
+
+    <!-- Add Service Strings-->
+    <string name="addServiceTextView">Add Service</string>
+    <string name="addServiceBookingId">Booking Id</string>
+    <string name="addServiceDate">Date</string>
+    <string name="addServiceProblem">Problem</string>
+    <string name="addServiceRepairCost">Repair Cost</string>
+    <string name="addServiceCarNumber">Car Number</string>
+    <string name="addServiceServiceCost">Service Cost</string>
+    <string name="addServiceSaveBtn">Save</string>
+
+    <string name="totalCostTextView">Total Cost</string>
+
+    <!-- Edit Text Bookings Strings-->
+    <string name="editTextBookingId">Booking Id</string>
+    <string name="editTextCarNumber">Car Number</string>
+    <string name="editTextProblem">Problems</string>
+    <string name="editTextRepairCost">Repair Cost</string>
+    <string name="editTextServiceCost">Service Cost</string>
+    <string name="editTextServiceDate">Date</string>
+
+    <!-- Approved Progress Strings-->
+    <string name="ApprovedProgressText">Progress</string>
+
+    <!-- Register Strings-->
+    <string name="registerTopText">Register</string>
+    <string name="RegEmailTextView">Email</string>
+    <string name="RegEmailEditText">Enter Your Email Address</string>
+    <string name="RegPasswordTextView">Password</string>
+    <string name="RegPasswordEditText">Enter Your Password</string>
+    <string name="dontHaveAccountText">Dont Have an Account?</string>
+    <string name="registerText">Register</string>
+
+    <!-- Login Strings-->
+    <string name="loginTopText">Log-In</string>
+    <string name="logEmailTextView">Email</string>
+    <string name="logEmailEditText">Enter Your Email Address</string>
+    <string name="logPasswordTextView">Password</string>
+    <string name="logPasswordEditText">Enter Your Password</string>
+    <string name="alreadyHaveAccountText">Already Have an Account?</string>
+    <string name="signInText">Sign-In</string>
+
+    <!-- Description Strings-->
+    <string name="quickBookingBtn">Quick Booking</string>
+
+    <!-- Menu Strings-->
+    <string name="menuHeader">Menu</string>
+
+    <!-- Registration Details Strings-->
+    <string name="registrationDetailsTopText">Welcome Back</string>
+    <string name="registrationDetailsTopText2">Fill Details to Continue</string>
+    <string name="registrationNameTextView">Name</string>
+    <string name="registrationNameText">Enter Your Name</string>
+    <string name="registrationEmailTextView">Email</string>
+    <string name="registrationEmailText">Enter Your Email</string>
+    <string name="registrationPhoneTextView">Phone</string>
+    <string name="registrationPhoneText">Enter Your Phone</string>
+
+    <!-- Bike Details Strings-->
+
+    <string name="CarDetailsText">Car Details</string>
+    <string name="category">Category</string>
+    <string name="brandName">Brand Name</string>
+    <string name="mileage">Mileage</string>
+    <string name="modelYear">Model Year</string>
+    <string name="ccValue">CC Value</string>
+
+    <!-- Bike Booking Strings-->
+
+    <string name="CarDetailsCategoryHint">Classic, Sport, etc..</string>
+    <string name="CarDetailsBrandHint">Honda, Bajaj, etc..</string>
+    <string name="CarDetailsMileageHint">ex :- 10000km</string>
+    <string name="CarDetailsModelYearHint">ex:-2009</string>
+    <string name="CarDetailsCCHint">ex:-150cc</string>
+    <string name="bookingCarNoText">Car Number</string>
+    <string name="bookingCarNoInput">Enter Car Number</string>
+    <string name="bookingOwnerNameText">Owner Name</string>
+    <string name="bookingOwnerNameInput">Enter Owner Name</string>
+    <string name="bookingNicNoText">NIC Number</string>
+    <string name="bookingNicNoInput">Enter NIC Number</string>
+    <string name="bookingPhoneNoText">Phone</string>
+    <string name="bookingPhoneNoInput">Enter Phone Number</string>
+    <string name="bookingServiceTypeText">Service Type</string>
+    <string name="bookingServiceTypeInput">Full Service, Body Wash</string>
+    <string name="Mention">Problems</string>
+    <string name="CarDetailsTopName">Car Details</string>
+    <string name="bookingBtnSave">SAVE</string>
+    <string name="makeBookingDetailsTopName">Make Booking</string>
+
+    <!-- Ratings Strings-->
+
+    <string name="ratingsTopText">Ratings</string>
+    <string name="title_activity_delivery_map">Map</string>
+
+
+</resources>

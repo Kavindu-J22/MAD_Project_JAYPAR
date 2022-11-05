@@ -1,0 +1,575 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:2:1-93:12
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\skyline\.gradle\caches\transforms-3\2cc0beb55e37ae704d324e3943439c12\transformed\jetified-viewbinding-4.2.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\skyline\.gradle\caches\transforms-3\ae2f8cbe63f7f0ccb7d6e9882f7d3e41\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\skyline\.gradle\caches\transforms-3\60987bef3b0d97d37ca84ff0c6a7fd20\transformed\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\skyline\.gradle\caches\transforms-3\25501a50b89b4f111a67f6bd586c6558\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.firebaseui:firebase-ui-database:6.0.2] C:\Users\skyline\.gradle\caches\transforms-3\fb3f762c1c82e160bca3b8f483b831ec\transformed\jetified-firebase-ui-database-6.0.2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\d1a3520b47f684ca7c99389c9c2b3273\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\skyline\.gradle\caches\transforms-3\7c2d5ca8f96e535916e5027ab416ac5a\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\47cb849dd6621c7e6eb150f598685b6a\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\8a47467c4e374bf3348f624564b7835f\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\skyline\.gradle\caches\transforms-3\fe9b054dd84cdb433bff66581d0e97d4\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\skyline\.gradle\caches\transforms-3\8303897097fd39a3ba8ae81d79e8509e\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\bd25897ebe734b66a350ba0d5d5f34b9\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\skyline\.gradle\caches\transforms-3\8f62863d2615b1d5af2dd8ce1d4331d4\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\skyline\.gradle\caches\transforms-3\06aa72707574ad84c197c97357940734\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\skyline\.gradle\caches\transforms-3\d24175cfff04a925b37518bc30483e4a\transformed\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\4d7afe20175447a02f57d3d3563f5342\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.f0ris.sweetalert:library:1.5.6] C:\Users\skyline\.gradle\caches\transforms-3\a1608b4bc726b5c8aeffc51783a081d7\transformed\jetified-library-1.5.6\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\d4312b97e608e36594187194f4ac8bae\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\00e9afc50cfadb279d6328533de1e620\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\skyline\.gradle\caches\transforms-3\a084c20bbb35eea5a7293804aaa5fe5b\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\skyline\.gradle\caches\transforms-3\9124b7d82b695f480af0ce78e5ccf727\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\skyline\.gradle\caches\transforms-3\814266067155b19aa0e233afdeaac619\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\skyline\.gradle\caches\transforms-3\2cb4d8906225829360875c976310a527\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\skyline\.gradle\caches\transforms-3\37f40929af17339c7e0dc95432360b91\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cb4cc190673053f8f9d5810f952922cb\transformed\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\b1c3603cff7a34e8a186034802d02aea\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\2a170c0d8b0c1748e52d76ecbe5987ba\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\skyline\.gradle\caches\transforms-3\d97d3e7de8909762da896a7cff0e2f3c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\b731cdebefc5d6243dfec29d77f19769\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\skyline\.gradle\caches\transforms-3\cdabd519470f49a55136ea7f593436a3\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\skyline\.gradle\caches\transforms-3\3ab4623f41506328e1a2b62595126815\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\skyline\.gradle\caches\transforms-3\6eaaf6b54ee3069d2da602f6a4cbc2f9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\2d035c1c06cde487d26fa97f69cd5e54\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\39a4fb7d1721a3afacc7ea34478b5afa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\8b933aaaa4cc9e25fc42cda0772288aa\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\da1c6ffc799c56498485197254d99045\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\2e2b2be8e688b9e5e203bf9e70b435c1\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\41997588268deb65e67f3a0079772ffc\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\70fc0853a71645338be5fa35debfeb9d\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\686ea9f30c7917254cb4b467e922e75d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\skyline\.gradle\caches\transforms-3\512978124c9157f19e5f10446b5713ee\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\c8db9cce8d6b905e20496f8bd9f992c1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\skyline\.gradle\caches\transforms-3\0a6674176a466a88de56a41f49aade0d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\skyline\.gradle\caches\transforms-3\be81026045fd463f6dca8680c107cc7b\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.firebaseui:firebase-ui-common:6.0.2] C:\Users\skyline\.gradle\caches\transforms-3\85ee1516195548e0f81eae39ce4182b2\transformed\jetified-firebase-ui-common-6.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\skyline\.gradle\caches\transforms-3\fe17fbb0d41a4df8722c70c67259174c\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\skyline\.gradle\caches\transforms-3\9000b3f4904be17f13bff7edf9b3e2e0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\d074de4804886a64b83df4b39a81b0c5\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\682007570af20206e1d35729b418fc20\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\ab3bc8a238c8460b6dd2baccacf0bcda\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\skyline\.gradle\caches\transforms-3\acd3a298f72cfafde4deafdf821c6cdc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\0f9bded29445092f7a8c8d10c57bccaa\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\skyline\.gradle\caches\transforms-3\afe6b8bf8093c76ef15c0e4af4834dd3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\skyline\.gradle\caches\transforms-3\713eeba356dd20a746816fb32ff3daf2\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\skyline\.gradle\caches\transforms-3\783803005bbb9f09b6b69877bfb3dd46\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\83be2d5d4723f7ef30a3a78c4607dee4\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\4481275ba2a4936840e6d12abeb0860b\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\7fa4dd87b288a2e46b5024a0fbfe932d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\203214a7d12454ee1a4eb1d8ddc95dac\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\skyline\.gradle\caches\transforms-3\07893ca42243a50652cfea649753afce\transformed\jetified-materialish-progress-1.7\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:2:1-93:12
+	package
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:2:1-93:12
+		INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:2:1-93:12
+		INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:5:5-91:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\skyline\.gradle\caches\transforms-3\ae2f8cbe63f7f0ccb7d6e9882f7d3e41\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\skyline\.gradle\caches\transforms-3\ae2f8cbe63f7f0ccb7d6e9882f7d3e41\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\skyline\.gradle\caches\transforms-3\60987bef3b0d97d37ca84ff0c6a7fd20\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\skyline\.gradle\caches\transforms-3\60987bef3b0d97d37ca84ff0c6a7fd20\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\d1a3520b47f684ca7c99389c9c2b3273\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\d1a3520b47f684ca7c99389c9c2b3273\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\skyline\.gradle\caches\transforms-3\7c2d5ca8f96e535916e5027ab416ac5a\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\skyline\.gradle\caches\transforms-3\7c2d5ca8f96e535916e5027ab416ac5a\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\47cb849dd6621c7e6eb150f598685b6a\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\47cb849dd6621c7e6eb150f598685b6a\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\8a47467c4e374bf3348f624564b7835f\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\8a47467c4e374bf3348f624564b7835f\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\bd25897ebe734b66a350ba0d5d5f34b9\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\bd25897ebe734b66a350ba0d5d5f34b9\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\skyline\.gradle\caches\transforms-3\8f62863d2615b1d5af2dd8ce1d4331d4\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\skyline\.gradle\caches\transforms-3\8f62863d2615b1d5af2dd8ce1d4331d4\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\skyline\.gradle\caches\transforms-3\06aa72707574ad84c197c97357940734\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\skyline\.gradle\caches\transforms-3\06aa72707574ad84c197c97357940734\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\skyline\.gradle\caches\transforms-3\d24175cfff04a925b37518bc30483e4a\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\skyline\.gradle\caches\transforms-3\d24175cfff04a925b37518bc30483e4a\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.f0ris.sweetalert:library:1.5.6] C:\Users\skyline\.gradle\caches\transforms-3\a1608b4bc726b5c8aeffc51783a081d7\transformed\jetified-library-1.5.6\AndroidManifest.xml:11:5-20
+MERGED from [com.github.f0ris.sweetalert:library:1.5.6] C:\Users\skyline\.gradle\caches\transforms-3\a1608b4bc726b5c8aeffc51783a081d7\transformed\jetified-library-1.5.6\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\skyline\.gradle\caches\transforms-3\9124b7d82b695f480af0ce78e5ccf727\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\skyline\.gradle\caches\transforms-3\9124b7d82b695f480af0ce78e5ccf727\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\skyline\.gradle\caches\transforms-3\512978124c9157f19e5f10446b5713ee\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\skyline\.gradle\caches\transforms-3\512978124c9157f19e5f10446b5713ee\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\skyline\.gradle\caches\transforms-3\acd3a298f72cfafde4deafdf821c6cdc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\skyline\.gradle\caches\transforms-3\acd3a298f72cfafde4deafdf821c6cdc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\skyline\.gradle\caches\transforms-3\07893ca42243a50652cfea649753afce\transformed\jetified-materialish-progress-1.7\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\skyline\.gradle\caches\transforms-3\07893ca42243a50652cfea649753afce\transformed\jetified-materialish-progress-1.7\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\skyline\.gradle\caches\transforms-3\512978124c9157f19e5f10446b5713ee\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:11:9-49
+activity#com.example.car_service.View_Approved_Bookings
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:15:9-17:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:16:13-51
+activity#com.example.car_service.splash_screen
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:18:9-28:20
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:19:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.car_service.Service_Details_Tab
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:30:9-32:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:31:13-48
+activity#com.example.car_service.Registration_Details
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:33:9-35:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:34:13-49
+activity#com.example.car_service.Register_Activity
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:36:9-38:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:37:13-46
+activity#com.example.car_service.Ratings
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:42:9-44:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:43:13-36
+activity#com.example.car_service.MyCredits
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:47:9-49:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:48:13-38
+activity#com.example.car_service.MenuActivity
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:50:9-52:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:51:13-41
+activity#com.example.car_service.MakePayment
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:53:9-55:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:54:13-40
+activity#com.example.car_service.MakeBooking
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:56:9-58:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:57:13-40
+activity#com.example.car_service.Login_Activity
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:60:9-62:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:62:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:61:13-43
+activity#com.example.car_service.IssueBill
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:63:9-65:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:65:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:64:13-38
+activity#com.example.car_service.Description
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:67:9-69:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:69:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:68:13-40
+activity#com.example.car_service.DeliveryActivity
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:70:9-72:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:72:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:71:13-45
+activity#com.example.car_service.ChoosePayment
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:73:9-75:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:75:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:74:13-42
+activity#com.example.car_service.CarDetails
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:77:9-79:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:79:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:78:13-39
+activity#com.example.car_service.AdminLogin
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:82:9-84:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:83:13-39
+activity#com.example.car_service.AdminActivities
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:85:9-87:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:87:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:86:13-44
+activity#com.example.car_service.add_Services
+ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:88:9-90:39
+	android:exported
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:90:13-36
+	android:name
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:89:13-41
+uses-sdk
+INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\skyline\.gradle\caches\transforms-3\2cc0beb55e37ae704d324e3943439c12\transformed\jetified-viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\skyline\.gradle\caches\transforms-3\2cc0beb55e37ae704d324e3943439c12\transformed\jetified-viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\skyline\.gradle\caches\transforms-3\ae2f8cbe63f7f0ccb7d6e9882f7d3e41\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\skyline\.gradle\caches\transforms-3\ae2f8cbe63f7f0ccb7d6e9882f7d3e41\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\skyline\.gradle\caches\transforms-3\60987bef3b0d97d37ca84ff0c6a7fd20\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\skyline\.gradle\caches\transforms-3\60987bef3b0d97d37ca84ff0c6a7fd20\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\skyline\.gradle\caches\transforms-3\25501a50b89b4f111a67f6bd586c6558\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\skyline\.gradle\caches\transforms-3\25501a50b89b4f111a67f6bd586c6558\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.firebaseui:firebase-ui-database:6.0.2] C:\Users\skyline\.gradle\caches\transforms-3\fb3f762c1c82e160bca3b8f483b831ec\transformed\jetified-firebase-ui-database-6.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:6.0.2] C:\Users\skyline\.gradle\caches\transforms-3\fb3f762c1c82e160bca3b8f483b831ec\transformed\jetified-firebase-ui-database-6.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\d1a3520b47f684ca7c99389c9c2b3273\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\d1a3520b47f684ca7c99389c9c2b3273\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\skyline\.gradle\caches\transforms-3\7c2d5ca8f96e535916e5027ab416ac5a\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\skyline\.gradle\caches\transforms-3\7c2d5ca8f96e535916e5027ab416ac5a\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\47cb849dd6621c7e6eb150f598685b6a\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\47cb849dd6621c7e6eb150f598685b6a\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\8a47467c4e374bf3348f624564b7835f\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\8a47467c4e374bf3348f624564b7835f\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\skyline\.gradle\caches\transforms-3\fe9b054dd84cdb433bff66581d0e97d4\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\skyline\.gradle\caches\transforms-3\fe9b054dd84cdb433bff66581d0e97d4\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\skyline\.gradle\caches\transforms-3\8303897097fd39a3ba8ae81d79e8509e\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\skyline\.gradle\caches\transforms-3\8303897097fd39a3ba8ae81d79e8509e\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\bd25897ebe734b66a350ba0d5d5f34b9\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\bd25897ebe734b66a350ba0d5d5f34b9\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\skyline\.gradle\caches\transforms-3\8f62863d2615b1d5af2dd8ce1d4331d4\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\skyline\.gradle\caches\transforms-3\8f62863d2615b1d5af2dd8ce1d4331d4\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\skyline\.gradle\caches\transforms-3\06aa72707574ad84c197c97357940734\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\skyline\.gradle\caches\transforms-3\06aa72707574ad84c197c97357940734\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\skyline\.gradle\caches\transforms-3\d24175cfff04a925b37518bc30483e4a\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\skyline\.gradle\caches\transforms-3\d24175cfff04a925b37518bc30483e4a\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\4d7afe20175447a02f57d3d3563f5342\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\4d7afe20175447a02f57d3d3563f5342\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.f0ris.sweetalert:library:1.5.6] C:\Users\skyline\.gradle\caches\transforms-3\a1608b4bc726b5c8aeffc51783a081d7\transformed\jetified-library-1.5.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.f0ris.sweetalert:library:1.5.6] C:\Users\skyline\.gradle\caches\transforms-3\a1608b4bc726b5c8aeffc51783a081d7\transformed\jetified-library-1.5.6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\d4312b97e608e36594187194f4ac8bae\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\d4312b97e608e36594187194f4ac8bae\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\00e9afc50cfadb279d6328533de1e620\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\00e9afc50cfadb279d6328533de1e620\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\skyline\.gradle\caches\transforms-3\a084c20bbb35eea5a7293804aaa5fe5b\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\skyline\.gradle\caches\transforms-3\a084c20bbb35eea5a7293804aaa5fe5b\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\skyline\.gradle\caches\transforms-3\9124b7d82b695f480af0ce78e5ccf727\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\skyline\.gradle\caches\transforms-3\9124b7d82b695f480af0ce78e5ccf727\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\skyline\.gradle\caches\transforms-3\814266067155b19aa0e233afdeaac619\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\skyline\.gradle\caches\transforms-3\814266067155b19aa0e233afdeaac619\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\skyline\.gradle\caches\transforms-3\2cb4d8906225829360875c976310a527\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\skyline\.gradle\caches\transforms-3\2cb4d8906225829360875c976310a527\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\skyline\.gradle\caches\transforms-3\37f40929af17339c7e0dc95432360b91\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\skyline\.gradle\caches\transforms-3\37f40929af17339c7e0dc95432360b91\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cb4cc190673053f8f9d5810f952922cb\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cb4cc190673053f8f9d5810f952922cb\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\b1c3603cff7a34e8a186034802d02aea\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\b1c3603cff7a34e8a186034802d02aea\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\2a170c0d8b0c1748e52d76ecbe5987ba\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\2a170c0d8b0c1748e52d76ecbe5987ba\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\skyline\.gradle\caches\transforms-3\d97d3e7de8909762da896a7cff0e2f3c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\skyline\.gradle\caches\transforms-3\d97d3e7de8909762da896a7cff0e2f3c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\b731cdebefc5d6243dfec29d77f19769\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\b731cdebefc5d6243dfec29d77f19769\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\skyline\.gradle\caches\transforms-3\cdabd519470f49a55136ea7f593436a3\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\skyline\.gradle\caches\transforms-3\cdabd519470f49a55136ea7f593436a3\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\skyline\.gradle\caches\transforms-3\3ab4623f41506328e1a2b62595126815\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\skyline\.gradle\caches\transforms-3\3ab4623f41506328e1a2b62595126815\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\skyline\.gradle\caches\transforms-3\6eaaf6b54ee3069d2da602f6a4cbc2f9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\skyline\.gradle\caches\transforms-3\6eaaf6b54ee3069d2da602f6a4cbc2f9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\2d035c1c06cde487d26fa97f69cd5e54\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\2d035c1c06cde487d26fa97f69cd5e54\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\39a4fb7d1721a3afacc7ea34478b5afa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\39a4fb7d1721a3afacc7ea34478b5afa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\8b933aaaa4cc9e25fc42cda0772288aa\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\8b933aaaa4cc9e25fc42cda0772288aa\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\da1c6ffc799c56498485197254d99045\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\da1c6ffc799c56498485197254d99045\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\2e2b2be8e688b9e5e203bf9e70b435c1\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\2e2b2be8e688b9e5e203bf9e70b435c1\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\41997588268deb65e67f3a0079772ffc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\41997588268deb65e67f3a0079772ffc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\70fc0853a71645338be5fa35debfeb9d\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\70fc0853a71645338be5fa35debfeb9d\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\686ea9f30c7917254cb4b467e922e75d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\686ea9f30c7917254cb4b467e922e75d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\skyline\.gradle\caches\transforms-3\512978124c9157f19e5f10446b5713ee\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\skyline\.gradle\caches\transforms-3\512978124c9157f19e5f10446b5713ee\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\c8db9cce8d6b905e20496f8bd9f992c1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\c8db9cce8d6b905e20496f8bd9f992c1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\skyline\.gradle\caches\transforms-3\0a6674176a466a88de56a41f49aade0d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\skyline\.gradle\caches\transforms-3\0a6674176a466a88de56a41f49aade0d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\skyline\.gradle\caches\transforms-3\be81026045fd463f6dca8680c107cc7b\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\skyline\.gradle\caches\transforms-3\be81026045fd463f6dca8680c107cc7b\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.firebaseui:firebase-ui-common:6.0.2] C:\Users\skyline\.gradle\caches\transforms-3\85ee1516195548e0f81eae39ce4182b2\transformed\jetified-firebase-ui-common-6.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-common:6.0.2] C:\Users\skyline\.gradle\caches\transforms-3\85ee1516195548e0f81eae39ce4182b2\transformed\jetified-firebase-ui-common-6.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\skyline\.gradle\caches\transforms-3\fe17fbb0d41a4df8722c70c67259174c\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\skyline\.gradle\caches\transforms-3\fe17fbb0d41a4df8722c70c67259174c\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\skyline\.gradle\caches\transforms-3\9000b3f4904be17f13bff7edf9b3e2e0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\skyline\.gradle\caches\transforms-3\9000b3f4904be17f13bff7edf9b3e2e0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\d074de4804886a64b83df4b39a81b0c5\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\d074de4804886a64b83df4b39a81b0c5\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\682007570af20206e1d35729b418fc20\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\682007570af20206e1d35729b418fc20\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\ab3bc8a238c8460b6dd2baccacf0bcda\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\ab3bc8a238c8460b6dd2baccacf0bcda\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\skyline\.gradle\caches\transforms-3\acd3a298f72cfafde4deafdf821c6cdc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\skyline\.gradle\caches\transforms-3\acd3a298f72cfafde4deafdf821c6cdc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\0f9bded29445092f7a8c8d10c57bccaa\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\0f9bded29445092f7a8c8d10c57bccaa\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\skyline\.gradle\caches\transforms-3\afe6b8bf8093c76ef15c0e4af4834dd3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\skyline\.gradle\caches\transforms-3\afe6b8bf8093c76ef15c0e4af4834dd3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\skyline\.gradle\caches\transforms-3\713eeba356dd20a746816fb32ff3daf2\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\skyline\.gradle\caches\transforms-3\713eeba356dd20a746816fb32ff3daf2\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\skyline\.gradle\caches\transforms-3\783803005bbb9f09b6b69877bfb3dd46\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\skyline\.gradle\caches\transforms-3\783803005bbb9f09b6b69877bfb3dd46\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\83be2d5d4723f7ef30a3a78c4607dee4\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\83be2d5d4723f7ef30a3a78c4607dee4\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\4481275ba2a4936840e6d12abeb0860b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\4481275ba2a4936840e6d12abeb0860b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\7fa4dd87b288a2e46b5024a0fbfe932d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\7fa4dd87b288a2e46b5024a0fbfe932d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\203214a7d12454ee1a4eb1d8ddc95dac\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\skyline\.gradle\caches\transforms-3\203214a7d12454ee1a4eb1d8ddc95dac\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\skyline\.gradle\caches\transforms-3\07893ca42243a50652cfea649753afce\transformed\jetified-materialish-progress-1.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\skyline\.gradle\caches\transforms-3\07893ca42243a50652cfea649753afce\transformed\jetified-materialish-progress-1.7\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:6.0.2] C:\Users\skyline\.gradle\caches\transforms-3\fb3f762c1c82e160bca3b8f483b831ec\transformed\jetified-firebase-ui-database-6.0.2\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:6.0.2] C:\Users\skyline\.gradle\caches\transforms-3\fb3f762c1c82e160bca3b8f483b831ec\transformed\jetified-firebase-ui-database-6.0.2\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\d1a3520b47f684ca7c99389c9c2b3273\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\d1a3520b47f684ca7c99389c9c2b3273\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\47cb849dd6621c7e6eb150f598685b6a\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\47cb849dd6621c7e6eb150f598685b6a\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\d1a3520b47f684ca7c99389c9c2b3273\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\d1a3520b47f684ca7c99389c9c2b3273\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\d1a3520b47f684ca7c99389c9c2b3273\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:12:17-116
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\47cb849dd6621c7e6eb150f598685b6a\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\47cb849dd6621c7e6eb150f598685b6a\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\47cb849dd6621c7e6eb150f598685b6a\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:16:17-113
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\skyline\.gradle\caches\transforms-3\8f62863d2615b1d5af2dd8ce1d4331d4\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\skyline\.gradle\caches\transforms-3\8f62863d2615b1d5af2dd8ce1d4331d4\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\skyline\.gradle\caches\transforms-3\8f62863d2615b1d5af2dd8ce1d4331d4\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\skyline\.gradle\caches\transforms-3\8f62863d2615b1d5af2dd8ce1d4331d4\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\skyline\.gradle\caches\transforms-3\d24175cfff04a925b37518bc30483e4a\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\skyline\.gradle\caches\transforms-3\d24175cfff04a925b37518bc30483e4a\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\skyline\.gradle\caches\transforms-3\d24175cfff04a925b37518bc30483e4a\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\skyline\.gradle\caches\transforms-3\d24175cfff04a925b37518bc30483e4a\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\skyline\.gradle\caches\transforms-3\9124b7d82b695f480af0ce78e5ccf727\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\skyline\.gradle\caches\transforms-3\9124b7d82b695f480af0ce78e5ccf727\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\skyline\.gradle\caches\transforms-3\9124b7d82b695f480af0ce78e5ccf727\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58

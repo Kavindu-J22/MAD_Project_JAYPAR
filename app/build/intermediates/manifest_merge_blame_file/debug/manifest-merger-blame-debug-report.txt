@@ -1,0 +1,342 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.car_service"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+11-->[com.firebaseui:firebase-ui-database:6.0.2] C:\Users\skyline\.gradle\caches\transforms-3\fb3f762c1c82e160bca3b8f483b831ec\transformed\jetified-firebase-ui-database-6.0.2\AndroidManifest.xml:11:5-67
+11-->[com.firebaseui:firebase-ui-database:6.0.2] C:\Users\skyline\.gradle\caches\transforms-3\fb3f762c1c82e160bca3b8f483b831ec\transformed\jetified-firebase-ui-database-6.0.2\AndroidManifest.xml:11:22-64
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:25:5-79
+13-->[com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:25:22-76
+14
+15    <uses-feature
+15-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+16        android:glEsVersion="0x00020000"
+16-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+17        android:required="true" />
+17-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+18
+19    <application
+19-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:5:5-91:19
+20        android:allowBackup="true"
+20-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:6:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.5.0] C:\Users\skyline\.gradle\caches\transforms-3\512978124c9157f19e5f10446b5713ee\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:7:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:8:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:9:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:10:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.CAR_SERVICE" >
+28-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:11:9-49
+29        <activity
+29-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:15:9-17:39
+30            android:name="com.example.car_service.View_Approved_Bookings"
+30-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:16:13-51
+31            android:exported="true" />
+31-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:17:13-36
+32        <activity
+32-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:18:9-28:20
+33            android:name="com.example.car_service.splash_screen"
+33-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:19:13-42
+34            android:exported="true" >
+34-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:20:13-36
+35            <intent-filter>
+35-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:22:13-26:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:23:17-69
+36-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:23:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:25:17-77
+38-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:25:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:30:9-32:39
+42            android:name="com.example.car_service.Service_Details_Tab"
+42-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:31:13-48
+43            android:exported="true" />
+43-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:32:13-36
+44        <activity
+44-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:33:9-35:39
+45            android:name="com.example.car_service.Registration_Details"
+45-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:34:13-49
+46            android:exported="true" />
+46-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:35:13-36
+47        <activity
+47-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:36:9-38:39
+48            android:name="com.example.car_service.Register_Activity"
+48-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:37:13-46
+49            android:exported="true" />
+49-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:38:13-36
+50        <activity
+50-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:42:9-44:39
+51            android:name="com.example.car_service.Ratings"
+51-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:43:13-36
+52            android:exported="true" />
+52-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:44:13-36
+53        <activity
+53-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:47:9-49:39
+54            android:name="com.example.car_service.MyCredits"
+54-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:48:13-38
+55            android:exported="true" />
+55-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:49:13-36
+56        <activity
+56-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:50:9-52:39
+57            android:name="com.example.car_service.MenuActivity"
+57-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:51:13-41
+58            android:exported="true" />
+58-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:52:13-36
+59        <activity
+59-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:53:9-55:39
+60            android:name="com.example.car_service.MakePayment"
+60-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:54:13-40
+61            android:exported="true" />
+61-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:55:13-36
+62        <activity
+62-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:56:9-58:39
+63            android:name="com.example.car_service.MakeBooking"
+63-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:57:13-40
+64            android:exported="true" />
+64-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:58:13-36
+65        <activity
+65-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:60:9-62:39
+66            android:name="com.example.car_service.Login_Activity"
+66-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:61:13-43
+67            android:exported="true" />
+67-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:62:13-36
+68        <activity
+68-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:63:9-65:39
+69            android:name="com.example.car_service.IssueBill"
+69-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:64:13-38
+70            android:exported="true" />
+70-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:65:13-36
+71        <activity
+71-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:67:9-69:39
+72            android:name="com.example.car_service.Description"
+72-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:68:13-40
+73            android:exported="true" />
+73-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:69:13-36
+74        <activity
+74-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:70:9-72:39
+75            android:name="com.example.car_service.DeliveryActivity"
+75-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:71:13-45
+76            android:exported="true" />
+76-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:72:13-36
+77        <activity
+77-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:73:9-75:39
+78            android:name="com.example.car_service.ChoosePayment"
+78-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:74:13-42
+79            android:exported="true" />
+79-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:75:13-36
+80        <activity
+80-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:77:9-79:39
+81            android:name="com.example.car_service.CarDetails"
+81-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:78:13-39
+82            android:exported="true" />
+82-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:79:13-36
+83        <activity
+83-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:82:9-84:39
+84            android:name="com.example.car_service.AdminLogin"
+84-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:83:13-39
+85            android:exported="true" />
+85-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:84:13-36
+86        <activity
+86-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:85:9-87:39
+87            android:name="com.example.car_service.AdminActivities"
+87-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:86:13-44
+88            android:exported="true" />
+88-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:87:13-36
+89        <activity
+89-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:88:9-90:39
+90            android:name="com.example.car_service.add_Services"
+90-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:89:13-41
+91            android:exported="true" />
+91-->C:\Users\skyline\AndroidStudioProjects\CAR_SERVICE\app\src\main\AndroidManifest.xml:90:13-36
+92
+93        <service
+93-->[com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:29:9-35:19
+94            android:name="com.google.firebase.components.ComponentDiscoveryService"
+94-->[com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:30:13-84
+95            android:directBootAware="true"
+95-->[com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+96            android:exported="false" >
+96-->[com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:31:13-37
+97            <meta-data
+97-->[com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:32:13-34:85
+98                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+98-->[com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:33:17-109
+99                android:value="com.google.firebase.components.ComponentRegistrar" />
+99-->[com.google.firebase:firebase-database:20.0.2] C:\Users\skyline\.gradle\caches\transforms-3\f740b1564b6d5e0d30b7ea7af8451391\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:34:17-82
+100            <meta-data
+100-->[com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\d1a3520b47f684ca7c99389c9c2b3273\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:11:13-13:85
+101                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+101-->[com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\d1a3520b47f684ca7c99389c9c2b3273\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:12:17-116
+102                android:value="com.google.firebase.components.ComponentRegistrar" />
+102-->[com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\d1a3520b47f684ca7c99389c9c2b3273\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:13:17-82
+103            <meta-data
+103-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+104                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+104-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+106            <meta-data
+106-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\47cb849dd6621c7e6eb150f598685b6a\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
+107                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+107-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\47cb849dd6621c7e6eb150f598685b6a\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:16:17-113
+108                android:value="com.google.firebase.components.ComponentRegistrar" />
+108-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\47cb849dd6621c7e6eb150f598685b6a\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:17:17-82
+109        </service>
+110
+111        <activity
+111-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+112            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+112-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+113            android:excludeFromRecents="true"
+113-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+114            android:exported="true"
+114-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+115            android:launchMode="singleTask"
+115-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+116            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+116-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+117            <intent-filter>
+117-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+118                <action android:name="android.intent.action.VIEW" />
+118-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+118-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+119
+120                <category android:name="android.intent.category.DEFAULT" />
+120-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+120-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+121                <category android:name="android.intent.category.BROWSABLE" />
+121-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+121-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+122
+123                <data
+123-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+124                    android:host="firebase.auth"
+124-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+125                    android:path="/"
+125-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+126                    android:scheme="genericidp" />
+126-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+127            </intent-filter>
+128        </activity>
+129        <activity
+129-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+130            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+130-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+131            android:excludeFromRecents="true"
+131-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+132            android:exported="true"
+132-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+133            android:launchMode="singleTask"
+133-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+134            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+134-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+135            <intent-filter>
+135-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+136                <action android:name="android.intent.action.VIEW" />
+136-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+136-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+137
+138                <category android:name="android.intent.category.DEFAULT" />
+138-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+138-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+139                <category android:name="android.intent.category.BROWSABLE" />
+139-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+139-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+140
+141                <data
+141-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+142                    android:host="firebase.auth"
+142-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+143                    android:path="/"
+143-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+144                    android:scheme="recaptcha" />
+144-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+145            </intent-filter>
+146        </activity>
+147
+148        <service
+148-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+149            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+149-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+150            android:enabled="true"
+150-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+151            android:exported="false" >
+151-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+152            <intent-filter>
+152-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+153                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+153-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+153-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+154
+155                <category android:name="android.intent.category.DEFAULT" />
+155-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+155-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\skyline\.gradle\caches\transforms-3\1fda67309c41a72814fd9c21b8574dc7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+156            </intent-filter>
+157        </service>
+158
+159        <provider
+159-->[com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+160            android:name="com.google.firebase.provider.FirebaseInitProvider"
+160-->[com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+161            android:authorities="com.example.car_service.firebaseinitprovider"
+161-->[com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+162            android:directBootAware="true"
+162-->[com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+163            android:exported="false"
+163-->[com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+164            android:initOrder="100" /> <!-- Needs to be explicitly declared on P+ -->
+164-->[com.google.firebase:firebase-common:20.0.0] C:\Users\skyline\.gradle\caches\transforms-3\54ce44fc0212065a6af187eec21be92e\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+165        <uses-library
+165-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+166            android:name="org.apache.http.legacy"
+166-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+167            android:required="false" />
+167-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\skyline\.gradle\caches\transforms-3\cdf329cc36935911556d63ad253abe48\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+168
+169        <activity
+169-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\skyline\.gradle\caches\transforms-3\8f62863d2615b1d5af2dd8ce1d4331d4\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+170            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+170-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\skyline\.gradle\caches\transforms-3\8f62863d2615b1d5af2dd8ce1d4331d4\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+171            android:exported="false"
+171-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\skyline\.gradle\caches\transforms-3\8f62863d2615b1d5af2dd8ce1d4331d4\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+172            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+172-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\skyline\.gradle\caches\transforms-3\8f62863d2615b1d5af2dd8ce1d4331d4\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+173
+174        <provider
+174-->[com.squareup.picasso:picasso:2.71828] C:\Users\skyline\.gradle\caches\transforms-3\d24175cfff04a925b37518bc30483e4a\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+175            android:name="com.squareup.picasso.PicassoProvider"
+175-->[com.squareup.picasso:picasso:2.71828] C:\Users\skyline\.gradle\caches\transforms-3\d24175cfff04a925b37518bc30483e4a\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+176            android:authorities="com.example.car_service.com.squareup.picasso"
+176-->[com.squareup.picasso:picasso:2.71828] C:\Users\skyline\.gradle\caches\transforms-3\d24175cfff04a925b37518bc30483e4a\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+177            android:exported="false" />
+177-->[com.squareup.picasso:picasso:2.71828] C:\Users\skyline\.gradle\caches\transforms-3\d24175cfff04a925b37518bc30483e4a\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+178
+179        <meta-data
+179-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\skyline\.gradle\caches\transforms-3\9124b7d82b695f480af0ce78e5ccf727\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+180            android:name="com.google.android.gms.version"
+180-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\skyline\.gradle\caches\transforms-3\9124b7d82b695f480af0ce78e5ccf727\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+181            android:value="@integer/google_play_services_version" />
+181-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\skyline\.gradle\caches\transforms-3\9124b7d82b695f480af0ce78e5ccf727\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+182    </application>
+183
+184</manifest>

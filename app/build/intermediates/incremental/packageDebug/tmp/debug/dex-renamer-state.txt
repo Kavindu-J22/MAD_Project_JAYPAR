@@ -1,0 +1,13 @@
+#Sun Oct 30 20:32:07 IST 2022
+path.3=14/classes.dex
+path.2=10/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=C\:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.2=C\:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.1=C\:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
