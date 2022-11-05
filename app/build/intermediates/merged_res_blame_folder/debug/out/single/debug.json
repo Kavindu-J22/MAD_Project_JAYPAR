@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_book.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_sample.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\btn_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_car_details.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_car_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tick.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_tick.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_view_img1.jpg.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\tab_view_img1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_approved_items.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\approved_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_add_service_img2.png.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable-v24\\add_service_img2.png"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top_splash.png.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\top_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration_details.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_registration_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sport_car1.jpg.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\sport_car1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_issue_bill.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_issue_bill.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_choose_payment.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_choose_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_box.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\text_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_assignment.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_admin_panel.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_admin_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map.png.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_red.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_search_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_service_details_tab.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_service_details_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_local_phone.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_local_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_circle.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_car1.png.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable-v24\\car1.png"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_main_logo1.png.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable-v24\\main_logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab3.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\fragment_tab3.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_decription.png.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\decription.png"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_local_shipping.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_local_shipping.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_back.jpg.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\user_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_credits.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_my_credits.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_shape.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_car_items.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\car_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_car2.jpg.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable-v24\\car2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ratings.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_ratings.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_item.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\progress_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_delivery.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_delivery.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_description.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab2.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\fragment_tab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_payment.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_make_booking.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_make_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_approved_bookings.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_view_approved_bookings.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_sample2.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\btn_sample2.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_make_payment.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_make_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rate_review.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_rate_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sport_car.png.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\sport_car.png"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_offer.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_offer.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_login.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_car3.png.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable-v24\\car3.png"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_services.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_add_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\xml_activity_registration_details_scene.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\xml\\activity_registration_details_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_activities.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_admin_activities.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_add_service_img1.png.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable-v24\\add_service_img1.png"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_payment.jpg.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\payment.jpg"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab1.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\fragment_tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_item.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\main_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_splash.png.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\bottom_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    }
+]

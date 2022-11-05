@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\progress_item.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\progress_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_make_booking.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_make_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tab2.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\fragment_tab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_delivery.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_delivery.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_services.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_add_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_make_payment.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_make_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin_login.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tab3.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\fragment_tab3.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_choose_payment.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_choose_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_registration_details.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_registration_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin_activities.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_admin_activities.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_view_approved_bookings.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_view_approved_bookings.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_ratings.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_ratings.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_credits.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_my_credits.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tab1.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\fragment_tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_item.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\main_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_car_details.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_car_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\approved_items.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\approved_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_issue_bill.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_issue_bill.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\car_items.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\car_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_service_details_tab.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_service_details_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_description.xml",
+        "source": "C:\\Users\\skyline\\AndroidStudioProjects\\CAR_SERVICE\\app\\src\\main\\res\\layout\\activity_description.xml"
+    }
+]
