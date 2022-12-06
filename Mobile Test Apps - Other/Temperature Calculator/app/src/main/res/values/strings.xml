@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature_Calculator</string>
+    <string name="Hint">Input Your Temperature</string>
+    <string name="LBLtopic">Enter Temperature</string>
+    <string name="RB_celci">Celcius</string>
+    <string name="RB_frh">Fahrenheit</string>
+    <string name="BtnCalc">Calculate</string>
+    <string name="LblAns">Answer here..!</string>
+</resources>

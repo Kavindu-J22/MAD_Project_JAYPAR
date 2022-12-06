@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8B94C6"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/TBinputTemp"
+        android:layout_width="251dp"
+        android:layout_height="37dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:hint="@string/Hint"
+        android:inputType="numberDecimal"
+        android:textAlignment="center"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.556"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/LBL_Topic" />
+
+    <TextView
+        android:id="@+id/LBL_Topic"
+        android:layout_width="251dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="80dp"
+        android:text="@string/LBLtopic"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RadioGroup
+        android:id="@+id/RGtemp"
+        android:layout_width="174dp"
+        android:layout_height="111dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TBinputTemp">
+
+        <RadioButton
+            android:id="@+id/RB_celci"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/RB_celci"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/RB_Frh"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/RB_frh"
+            android:textSize="16sp" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/BTNtemp"
+        android:layout_width="141dp"
+        android:layout_height="57dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="44dp"
+        android:text="@string/BtnCalc"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/RGtemp" />
+
+    <TextView
+        android:id="@+id/LBLans"
+        android:layout_width="137dp"
+        android:layout_height="37dp"
+        android:layout_marginEnd="52dp"
+        android:text="@string/LblAns"
+        android:textSize="18sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBaseline_toBaselineOf="@+id/BTNtemp"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="442dp"
+        android:layout_height="212dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BTNtemp"
+        app:layout_constraintVertical_bias="0.875"
+        app:srcCompat="@drawable/temp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
