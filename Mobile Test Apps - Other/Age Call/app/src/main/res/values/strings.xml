@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgeCallculator01</string>
+    <string name="Topic">Calculate Age</string>
+    <string name="Hint">Enter your birth year</string>
+    <string name="BTNcall">Calculate</string>
+    <string name="TXTanswer">Your Answer Will Appear Here...!</string>
+</resources>
