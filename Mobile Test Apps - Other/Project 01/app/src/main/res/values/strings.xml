@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">New Project1</string>
+    <string name="btnSend">SEND</string>
+    <string name="hntMessage">Enter a Message</string>
+</resources>
